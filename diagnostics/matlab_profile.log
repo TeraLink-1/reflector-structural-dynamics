@@ -1,0 +1,20 @@
+[Warning: Unable to locate a personal folder for $documents\MATLAB.] 
+Point-load CoG [m]: (0, 0, 0.910)
+Current truss length L = 1.352072 m
+Ideal rod EA/L = 5.809e+08 N/m (not the sweep k)
+Example free length L0 at k=100 N/m: 1.449243 m
+START j=1 k=1
+TRANSIENT seconds=0.484 rows=13965 final_t=200
+DONE seconds=0.604 sway_rms=4.83948
+START j=2 k=1.62453
+TRANSIENT seconds=0.862 rows=16929 final_t=200
+DONE seconds=0.879 sway_rms=3.46833
+START j=100 k=62.8285
+TRANSIENT seconds=1.953 rows=56905 final_t=200
+DONE seconds=2.023 sway_rms=0.0208881
+START j=400 k=250.188
+TRANSIENT seconds=0.941 rows=97341 final_t=200
+DONE seconds=0.957 sway_rms=0.00651265
+START j=800 k=500
+TRANSIENT seconds=1.574 rows=132153 final_t=200
+DONE seconds=1.594 sway_rms=0.00240023
